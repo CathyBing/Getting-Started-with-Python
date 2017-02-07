@@ -1,2 +1,2 @@
-# Python-
-《Python简明教程》中出现的全部练习代码
+# Getting Started with Python
+All of the practicing code appearing in ‘A Byte of Python’
